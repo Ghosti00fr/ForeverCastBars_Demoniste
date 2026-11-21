@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: Forever Cast Bars - Warlock
+## Title-frFR: Forever Cast Bars - Démoniste
+## Title-esES: Forever Cast Bars - Brujo
+## Title-esMX: Forever Cast Bars - Brujo
+## Notes: Warlock pack for Forever Cast Bars: one illustrated, animated bar per warlock spell. Optional.
+## Notes-frFR: Pack Démoniste pour Forever Cast Bars : une barre illustrée et animée par sort de démoniste. Optionnel.
+## Notes-esES: Paquete de brujo para Forever Cast Bars: una barra ilustrada y animada por hechizo de brujo. Opcional.
+## Notes-esMX: Paquete de brujo para Forever Cast Bars: una barra ilustrada y animada por hechizo de brujo. Opcional.
+## Author: Ghosti
+## Version: 0.0.39
+## X-License: All Rights Reserved
+## Dependencies: ForeverCastBars
+## IconTexture: Interface\Icons\Spell_Shadow_ShadowBolt
+
+Demoniste.lua
